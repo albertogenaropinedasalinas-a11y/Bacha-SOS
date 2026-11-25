@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bacha-S.O.S.</string>
+    <string name="lema">Tu ciudad, un camino mejor</string>
+    <string name="logo_descripcion">Logotipo de Bacha-S.O.S.</string>
+
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="bienvenido_desc">Juntos podemos mejorar nuestras calles.</string>
+    <string name="inicia_para_continuar">Inicia sesión para continuar</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="sin_cuenta">¿Aún no tienes una cuenta?</string>
+    <string name="ya_tienes">¿Ya tienes cuenta?</string>
+    <string name="registro_desc">Regístrate y ayuda a reportar los baches de tu ciudad.</string>
+    <string name="minimo">La contraseña debe tener mínimo 8 caracteres</string>
+    <string name="error_datos">Revisa los datos ingresados.</string>
+    <string name="regresar">Regresar</string>
+    <string name="registrarme">Registrarme ahora</string>
+    <string name="terminos">Acepto los términos y condiciones</string>
+    <string name="terminos_error">Debes aceptar los términos y condiciones.</string>
+
+    <string name="inicio">Inicio</string>
+    <string name="saludo">¡Hola, ciudadano!</string>
+    <string name="saludo_desc">Gracias por ayudar a tu comunidad.</string>
+    <string name="seguridad">Juntos por calles más seguras</string>
+    <string name="reportar">Reportar</string>
+    <string name="reportar_bache">Reportar un bache</string>
+    <string name="reportar_desc">¿Encontraste una calle dañada? Ayuda a que sea atendida.</string>
+    <string name="nuevo_reporte">Nuevo reporte</string>
+    <string name="ver_mapa">Explorar mapa</string>
+    <string name="recientes">Reportes de la comunidad</string>
+    <string name="ver_todos">Ver todos</string>
+    <string name="reportes_registrados">Reportes registrados</string>
+    <string name="mapa">Mapa</string>
+    <string name="mis_reportes">Mis reportes</string>
+    <string name="perfil">Perfil</string>
+    <string name="funcion_pendiente">Esta función todavía está en desarrollo.</string>
+    <string name="sin_reportes">Todavía no hay reportes.</string>
+    <string name="reportes_ejemplo">Datos de demostración</string>
+
+    <string name="alto">Alto</string>
+    <string name="medio">Medio</string>
+    <string name="bajo">Bajo</string>
+    <string name="sin_reparar">Sin reparar</string>
+    <string name="en_proceso">En proceso</string>
+    <string name="reparado">Reparado</string>
+    <string name="folio">Folio %1$s</string>
+    <string name="guardar_reporte">Guardar reporte</string>
+    <string name="direccion">Dirección del bache</string>
+    <string name="gravedad">Gravedad</string>
+    <string name="sin_direccion">Escribe una dirección.</string>
+    <string name="reporte_guardado">Reporte guardado correctamente.</string>
+    <string name="simbolo_agregar">+</string>
+
+    <string name="usuario">Usuario Ciudadano</string>
+    <string name="correo_usuario">usuario@bachasos.mx</string>
+    <string name="tema">Tema</string>
+    <string name="claro">Claro</string>
+    <string name="oscuro">Oscuro</string>
+    <string name="sistema">Sistema</string>
+    <string name="tamano_letra">Tamaño de letra</string>
+    <string name="disminuir_letra">A−</string>
+    <string name="aumentar_letra">A+</string>
+    <string name="panel_municipal">Panel municipal</string>
+    <string name="obras_publicas">Dirección de Obras Públicas</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="todos">Todos</string>
+    <string name="sin_resultados">No hay reportes con este estado.</string>
+    <string name="cambiar_estado">Cambiar estado</string>
+</resources>
